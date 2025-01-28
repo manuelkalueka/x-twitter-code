@@ -1,0 +1,16 @@
+{
+  "name": "x-twitter-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "visionDot",
+  "license": "MIT",
+  "description": "Clone X (twitter) para o codepoint",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
